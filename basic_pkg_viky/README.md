@@ -21,5 +21,6 @@ mul_viky.mul_by_same_number(5)
 
 ## Useful Resources
 
-* [Packaging Python Projects¶](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [Demo Tutorial](https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/)
 * [Configuring setuptools using setup.cfg files](https://setuptools.pypa.io/en/latest/userguide/declarative_config.html)
